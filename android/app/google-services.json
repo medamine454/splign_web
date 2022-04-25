@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1015896929331",
+    "project_id": "splign-posture",
+    "storage_bucket": "splign-posture.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015896929331:android:92bcb44f56f9f285025f46",
+        "android_client_info": {
+          "package_name": "com.example.splign_p2m"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015896929331-m8kqambsnv0rp1l8umoo5igbi0nr7buc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3UtW03uG1lJ31dhze-F0X5-1hrlV9--4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015896929331-m8kqambsnv0rp1l8umoo5igbi0nr7buc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
